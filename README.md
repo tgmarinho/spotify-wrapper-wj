@@ -2,6 +2,8 @@
 
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
 
+[![Build Status](https://travis-ci.org/tgmarinho/spotify-wrapper-wj.svg?branch=master)](https://travis-ci.org/tgmarinho/spotify-wrapper-wj)
+
 ## Browser Support
 
 This library relies on [Fetch API](https://fetch.spec.whatwg.org/). And this API is supported in the following browsers.
