@@ -226,7 +226,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-| ![Thiago Marinho](https://avatars3.githubusercontent.com/u/380327?s=400&u=c14e00daa0a69647ad462910ec7b7e7cbe4ceadb&v=4)|
+| ![Thiago Marinho](https://avatars2.githubusercontent.com/u/380327?s=150&v=3)|
 |:---------------------:|
 |  [Thiago Marinho](https://github.com/tgmarinho/)   |
 
