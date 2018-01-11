@@ -3,6 +3,7 @@
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
 
 [![Build Status](https://travis-ci.org/tgmarinho/spotify-wrapper-wj.svg?branch=master)](https://travis-ci.org/tgmarinho/spotify-wrapper-wj)
+[![Coverage Status](https://coveralls.io/repos/github/tgmarinho/spotify-wrapper-wj/badge.svg?branch=master)](https://coveralls.io/github/tgmarinho/spotify-wrapper-wj?branch=master)
 
 ## Browser Support
 
