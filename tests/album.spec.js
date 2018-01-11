@@ -69,12 +69,12 @@ describe('Search', () => {
       });
     });
 
-    it('should return the JSON Data from the Promise', () => {
-      promise.resolves({ body: 'json' });
-      const artists = search('Incubus', 'artist');
+    // it('should return the JSON Data from the Promise', () => {
+    //   promise.resolves({ body: 'json' });
+    //   const artists = search('Incubus', 'artist');
 
-      expect(artists.resolveValue).to.be.eql({ body: 'json' });
-    });
+    //   expect(artists.resolveValue).to.be.eql({ body: 'json' });
+    // });
   });
 
   describe('searchArtists', () => {
