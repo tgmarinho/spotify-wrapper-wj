@@ -1,5 +1,4 @@
 /* to run: babel-node albums.js */
-
 global.fetch = require('node-fetch');
 
 import SpotifyWrapper from '../src/index';
