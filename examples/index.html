@@ -11,7 +11,11 @@
 <script src="../dist/spotify-wrapper.umd.js"></script>
 
 <script>
-  const albums = spotifyWrapper.searchAlbums('Incubus');
+  const spotify = new SpotifyWrapper({
+    token: 'BQC6GD6lrkOqoNir_K9ZizT4P4p58DVxdjJvIHux-s_upbZ6TTnVfwzL85HRkUEEieoi8aEFkL4h39KHGAmCmRgaYGEikC2exY3UV2Vtjkb7fOETolNi556IR2Ql_iqp4m6rKfMy6ZdXvBVGkUO7ybxvF-S9HT424A'
+  });
+
+  const albums = spotify.search.albums('Fernandinho');
   const albumsEl = document.getElementById('albums');
 
   albums
